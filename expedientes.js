@@ -7,8 +7,8 @@
    de tu proyecto en Supabase → Project Settings → API
    ============================================================ */
 
-const SUPABASE_URL      = 'TU_SUPABASE_URL';
-const SUPABASE_ANON_KEY = 'TU_SUPABASE_ANON_KEY';
+const SUPABASE_URL      = 'https://arovidqhizasileihdqg.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_Z4iubSEF_yaO-Vm7gmg14w_m13PDynU';
 
 // === INIT SUPABASE CLIENT ===
 const { createClient } = window.supabase;
